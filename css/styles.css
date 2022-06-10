@@ -7813,9 +7813,13 @@ textarea.form-control-lg {
 }
 
 .fondo-primario{
-  background-image: url('../assets/img/resto-mesas.jpg');
+  background-image: url('../assets/img/fachada.png');
   background-size: cover;
   min-height: 770px;
+}
+
+.fondo-about{
+  background-color: #867d00;
 }
 
 .bg-secondary {
@@ -11376,7 +11380,7 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #1abc9c;
+  color: #313A1C;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
@@ -11404,11 +11408,11 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #313A1C;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #6F892D;
   }
 
   #mainNav.navbar-shrink {
@@ -11462,7 +11466,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: rgba(77, 104, 15, 0.5);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
