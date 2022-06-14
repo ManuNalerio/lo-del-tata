@@ -6974,11 +6974,11 @@ progress {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #556b2f;
+  background-color: #4d680F;
 }
 
 .fondo-primario{
-  background-image: url('../assets/img/fachada.png');
+  background-image: url('../assets/img/portada.png');
   background-size: cover;
   min-height: 770px;
 }
@@ -10662,5 +10662,5 @@ html {
 }
 
 .copyright {
-  background-color: #4d680F;
+  background-color: #3c5912;
 }
