@@ -6978,9 +6978,16 @@ progress {
 }
 
 .fondo-primario{
-  background-image: url('../assets/img/portada.png');
+  background-image: url('../assets/img/portada1.png');
   background-size: cover;
   min-height: 770px;
+  width: 100%;
+}
+
+@media (max-width: 425px) {
+  .fondo-primario{
+    min-height: fit-content;
+  }
 }
 
 .fondo-about{
