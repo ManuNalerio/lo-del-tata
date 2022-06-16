@@ -2197,13 +2197,13 @@ progress {
 
 .btn-primary {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  background-color: #556b2f;
+  border-color: #556b2f;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #16a085;
-  border-color: #15967d;
+  background-color: #35431d;
+  border-color: #35431d;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -10647,6 +10647,10 @@ html {
   width: 150px;
   border-radius: 15px;
   opacity: 0.8;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content:hover{
+  background-color: #556b2f;
 }
 
 .portfolio-modal .btn-close {
