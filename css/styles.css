@@ -6978,9 +6978,9 @@ progress {
 }
 
 .fondo-primario{
-  background-image: url('../assets/img/sushi-san.jpeg');
+  background-image: url('../assets/img/tata-fachada.jpeg');
   background-size: cover;
-  min-height: 900px;
+  min-height: 770px;
   width: 100%;
 }
 
@@ -6996,7 +6996,7 @@ progress {
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color: #1f1f1f;
+  background-color: #4d680F;
 }
 
 .bg-success {
@@ -10541,8 +10541,6 @@ html {
   padding-bottom: 1rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
-  background: rgb(0,0,0);
-  background: linear-gradient(180deg, rgba(0,0,0,0.6026785714285714) 0%, rgba(0,0,0,0.5018382352941176) 36%, rgba(222,202,255,0) 97%);
 }
 #mainNav .navbar-brand {
   color: #fff;
@@ -10551,7 +10549,7 @@ html {
   margin-top: 1rem;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link {
-  color: #000;
+  color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
   color: #313A1C;
